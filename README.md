@@ -1,2 +1,2 @@
-My first readme
-I mad this change on github.com
+My first readme  
+I made this change on github.com
